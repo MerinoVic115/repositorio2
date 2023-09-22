@@ -35,4 +35,4 @@ kmfssdmsmsgvmslgdskmklwgmklsdvmslkslb slbk sbl swbkpwbhpwhbpshbmawpha iofnioqpfn
     <body>
 <html>
 ```
-[link](http://www.fmtaekwondo.es/wp-content/uploads/2012/09/R.F.E.T._-Reglamento_examen_de_1-al-5-Dan_16-02-2013-ok..pdf "enlace a la rfet")
+[link](http://www.fmtaekwondo.es/wp-content/uploads/2012/09/R.F.E.T._-Reglamento_examen_de_1-al-5-Dan_16-02-2013-ok..pdf "enlace a la RFET")
