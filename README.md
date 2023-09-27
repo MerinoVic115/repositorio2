@@ -44,3 +44,11 @@ kmfssdmsmsgvmslgdskmklwgmklsdvmslkslb slbk sbl swbkpwbhpwhbpshbmawpha iofnioqpfn
 |----------|:----------:|----------:|
 |Col 2 es|centrada|500€|
 |Col 3 es|derecha|1500€|
+|Col 4 es|derecha|4€|
+|Final|Hola|300€|
+
+##### Examen
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
