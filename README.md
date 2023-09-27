@@ -50,5 +50,7 @@ kmfssdmsmsgvmslgdskmklwgmklsdvmslkslb slbk sbl swbkpwbhpwhbpshbmawpha iofnioqpfn
 ##### Examen
 
 -[ ] Opción A
+
 -[X] Opción B
+
 -[ ] Opción C
