@@ -37,4 +37,10 @@ kmfssdmsmsgvmslgdskmklwgmklsdvmslkslb slbk sbl swbkpwbhpwhbpshbmawpha iofnioqpfn
 ```
 [Acceso al PDF de la RFET, cinturon negro de taekwondo](http://www.fmtaekwondo.es/wp-content/uploads/2012/09/R.F.E.T._-Reglamento_examen_de_1-al-5-Dan_16-02-2013-ok..pdf "enlace a la RFET")
 
-![Imagen BZRP](https://github.com/MerinoVic115/repositorio2/blob/main/BZRP.png "Ferrari")
+![Imagen BZRP]--(https://github.com/MerinoVic115/repositorio2/blob/main/BZRP.png "Ferrari")
+
+
+|Titulo |Alineación | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|500€|
+|Col 3 es|derecha|1500€|
